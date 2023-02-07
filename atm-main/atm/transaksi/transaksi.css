@@ -1,0 +1,33 @@
+body{
+    background-color: blue;
+    color: white;
+    font-family: sans-serif;
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+a{
+    text-decoration: none;
+    font-size: x-large;
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.zero{
+    display: flex;
+    justify-content: space-evenly;
+}
+.one{
+    flex-direction: column;
+    display: flex;
+    text-align: left;
+    margin-left: 10%;
+}
+.two{
+    flex-direction: column;
+    display: flex;
+    margin-right: 10%;
+    text-align: right;
+}

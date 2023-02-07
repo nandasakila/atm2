@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+    color: white;
+}
+
+.text1{
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    margin-top: 5%;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
